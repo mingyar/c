@@ -2,7 +2,7 @@
 ![Mingyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyar&theme=calm&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&theme=calm&show_icons=true&layout=compact)](https://github.com/mingyar/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingyar&repo=elxr_yt_wb_scrpr)](https://github.com/mingyar/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingyar&repo=elxr_yt_wb_scrpr&theme=calm)](https://github.com/mingyar/github-readme-stats)
 <!--
 **mingyar/mingyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
