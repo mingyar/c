@@ -2,10 +2,10 @@
 
 
 
-![Mingyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyar&theme=gruvbox&show_icons=true)
+![Mingyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyar&theme=vue&show_icons=true)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/mingyar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&theme=vue&show_icons=true&layout=compact)](https://github.com/mingyar/github-readme-stats)
 
 <!--
 <div>
