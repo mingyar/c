@@ -1,18 +1,13 @@
 # Mingyar Eliphas Furtado
 
----
 
 ### Brazilian,  31 years old, Single
 
-[mingyar.furtado@gmail.com](mailto:mingyar.furtado@gmail.com)
-
-[linkedin.com/in/furtadomingyar](https://www.linkedin.com/in/furtadomingyar)
-
-[github.com/mingyar](http://github.com/mingyar)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:faresmeti@gmail.com)](mailto:mingyar.furtado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/furtadomingyar/)
+[![Exercism](https://img.shields.io/badge/-Exercism-304652?style=for-the-badge&logo=Exercism&logoColor=white)](https://exercism.io/profiles/mingyar/)
 
 # **Certification**
-
----
 
 [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/certificate/UC-XEVGSTBJ/)
 
@@ -20,7 +15,6 @@ MCTS - Microsoft Dynamics AX 2012 R3 CU8 Development Introduction
 
 # **Education background**
 
----
 
 ### Computer Science, 2008 - 2012
 
@@ -32,7 +26,6 @@ UNINTER Centro Universitário Internacional
 
 # **Languages**
 
----
 
 Portuguese — Native;
 
@@ -40,7 +33,6 @@ English — Advanced.
 
 # **Exchanges**
 
----
 
 ## Germany, 2013 — Steiger Missions School | Steiger International
 
@@ -67,7 +59,6 @@ Serving kids in orphanages in Kathmandu, Nepal.
 
 # **Professional Experience**
 
----
 
 ## YWAM Monte das Águias
 
